@@ -12,3 +12,7 @@
 hs_err_pid*
 
 catalog-v001.xml
+/target/
+.project
+.classpath
+/.settings/

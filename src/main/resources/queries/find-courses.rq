@@ -1,0 +1,8 @@
+PREFIX x: <http://ifs.tuwien.ac.at/tulid/group16#>
+
+SELECT ?courseID ?courseName
+WHERE {
+  ?subject x:courseName ?courseName.
+  ?subject x:courseID ?courseID.
+}
+LIMIT 200
