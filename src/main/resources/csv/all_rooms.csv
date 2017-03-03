@@ -1,0 +1,191 @@
+Room_URI,Room,Capacity,Institute,Approval Mode,Availability,Building,Address,Room Number
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ATIB,Atominstitut Bibliothek,25,E141,persönlich,Verfügbar,Atominstitut,"Stadionallee 2, 1. Stock, links",ZA0115
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ABL,Aufbaulabor,120,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 7, 1.Stock",AH0105
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=EG,Ausstellungshalle,200,E401,persönlich,Verfügbar,ARSENAL OBJEKT 219,"Franz Grill Str . / Lilienthalg.,",OVEGE01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=BRG,Besprechungsraum Galerie,14,E006,via TISS,Verfügbar,Institutsgebäude,"Argentinierstr. 8, Argentinierstrasse 8, 1. Stock",EAZE04
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=BRK,Besprechungsraum Kuppel,8,E006,via TISS,Verfügbar,Institutsgebäude,"Argentinierstr. 8, Argentienerstraße 8, EG",EAEG05A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=CB0115,Bibliothek E 351,20,E354,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29,",
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=EDVP,EDV Praktikum Physik,32,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 1. OG",DB01E09
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E1,EI 1 Petritsch HS,63,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0242
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E10,EI 10 Fritz Paschke HS,151,E184,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CAEG31
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E11,EI 11 Geodäsie HS,94,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, 3. Stock",CD0304
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E2,EI 2 Pichelmayer HS,123,E184,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0235
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E3,EI 3 Sahulka HS,184,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0205
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E3A,EI 3A Hörsaal,59,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0213
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E4,EI 4 Reithoffer HS,90,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0245
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E5,EI 5 Hochenegg HS,114,E280,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0229
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E6,EI 6 Eckert HS,32,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 10, 6. Stock",CF0453
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E7,EI 7 Hörsaal,434,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CDEG13
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E8,EI 8 Pötzl HS,139,E184,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CDEG08
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E9,EI 9 Hlawka HS,181,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CAEG17
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F8,FH 8 Nöbauer HS,203,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02H12
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F1,FH Hörsaal 1,383,E402,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm C, roter Bereich, 1. u. 2. OG",DC02H03
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F2,FH Hörsaal 2,53,E006,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02O23
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F3,FH Hörsaal 3,87,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02O13
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F4,FH Hörsaal 4,54,E006,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02O05
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F5,FH Hörsaal 5,198,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 2. OG",DA02G15
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F6,FH Hörsaal 6,198,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 2. OG",DA02K01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F7,FH Hörsaal 7,70,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02H04
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=AUDI,GM 1 Audi. Max.,500,E006,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, EG",BAU178A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=RADI,GM 2 Radinger Hörsaal,240,E006,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt, 1.OG",BD01B33
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=VORT+HS,GM 3 Vortmann Hörsaal,110,E006,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 2.OG",BA02A05
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ATIB,Atominstitut Bibliothek,25,E141,persönlich,Verfügbar,Atominstitut,"Stadionallee 2, 1. Stock, links",ZA0115
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ABL,Aufbaulabor,120,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 7, 1.Stock",AH0105
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=EG,Ausstellungshalle,200,E401,persönlich,Verfügbar,ARSENAL OBJEKT 219,"Franz Grill Str . / Lilienthalg.,",OVEGE01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=BRG,Besprechungsraum Galerie,14,E006,via TISS,Verfügbar,Institutsgebäude,"Argentinierstr. 8, Argentinierstrasse 8, 1. Stock",EAZE04
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=BRK,Besprechungsraum Kuppel,8,E006,via TISS,Verfügbar,Institutsgebäude,"Argentinierstr. 8, Argentienerstraße 8, EG",EAEG05A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=CB0115,Bibliothek E 351,20,E354,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29,",
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=EDVP,EDV Praktikum Physik,32,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 1. OG",DB01E09
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E1,EI 1 Petritsch HS,63,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0242
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E10,EI 10 Fritz Paschke HS,151,E184,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CAEG31
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E11,EI 11 Geodäsie HS,94,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, 3. Stock",CD0304
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E2,EI 2 Pichelmayer HS,123,E184,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0235
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E3,EI 3 Sahulka HS,184,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0205
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E3A,EI 3A Hörsaal,59,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0213
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E4,EI 4 Reithoffer HS,90,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0245
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E5,EI 5 Hochenegg HS,114,E280,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, 2. Stock",CF0229
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E6,EI 6 Eckert HS,32,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 10, 6. Stock",CF0453
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E7,EI 7 Hörsaal,434,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CDEG13
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E8,EI 8 Pötzl HS,139,E184,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CDEG08
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=E9,EI 9 Hlawka HS,181,E006,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1, Erdgeschoss",CAEG17
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F8,FH 8 Nöbauer HS,203,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02H12
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F1,FH Hörsaal 1,383,E402,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm C, roter Bereich, 1. u. 2. OG",DC02H03
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F2,FH Hörsaal 2,53,E006,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02O23
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F3,FH Hörsaal 3,87,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02O13
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F4,FH Hörsaal 4,54,E006,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02O05
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F5,FH Hörsaal 5,198,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 2. OG",DA02G15
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F6,FH Hörsaal 6,198,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 2. OG",DA02K01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F7,FH Hörsaal 7,70,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 2. OG",DB02H04
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=AUDI,GM 1 Audi. Max.,500,E006,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, EG",BAU178A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=RADI,GM 2 Radinger Hörsaal,240,E006,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt, 1.OG",BD01B33
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=VORT+HS,GM 3 Vortmann Hörsaal,110,E006,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 2.OG",BA02A05
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=KNOL,GM 4 Knoller Hörsaal,104,E307,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt, 2.OG",BD02D32
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=BA_PRAKT,GM 5 Praktikum HS,240,E006,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 2.UG",BAU276A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H11,HS 11 Paul Ludwik,196,E402,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hof 1, Stiege 5",AC0240
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H13,HS 13 Ernst Melan,174,E242,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7",AE0239
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H14A,HS 14A Günther Feuerstein,102,E184,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 3, 3. Stock",AB0306
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H17,HS 17 Friedrich Hartmann,211,E184,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7, 3. Stock",AE0341
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H18,HS 18 Czuber,200,E242,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, zw.Stiege 2 u. 8, 2. Stock",AE0238
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H7,HS 7 Schütte-Lihotzky,143,E242,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hof 2, Stiege 7",AHEG07
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H8,HS 8 Heinz Parkus,196,E184,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7",AE0141
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H12,Hörsaal 12,64,E242,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hof 2, Stiege 6",AF0222
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H14,Hörsaal 14,36,E006,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 3, 3. Stock",AB0302
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H15,Hörsaal 15,52,E006,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 3, 3. Stock",AB0314
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=H6,Hörsaal 6,167,E280,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, zw. Stiege 2 u. 8",AEEG40
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=AIHS,Hörsaal AI,196,E141,persönlich,Verfügbar,Atominstitut,"Stadionallee 2,",ZDEG01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WBUIF01,Hörsaal W4,174,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU EG",WB UI F01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WAEG07,Hörsaal W5,138,E280,via TISS,Verfügbar bis 31.07.17 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU EG",WA EG E07
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WC03A24,Hörsaal WEDV,70,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 3.OG",WC 03 A24
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=HSF,Hörsaal für Fertigungstechnik,34,,persönlich,Verfügbar,Lab.f.Fert.Technik,"Engerthstr. 119,",PAEG06
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=INFH,Informatikhörsaal,392,E006,via TISS,Verfügbar,Institutsgebäude,"Treitlstraße 3, Erdgeschoss",DEU116
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=HEEG07,Informatiklabor Breakout,10,E195,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, 2.OG(Zugang über Stiege 4)",HE0232
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=HGEG05,Informatiklabor Frogger,25,E195,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, Erdgeschoß",HGEG05
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=HGEG15,Informatiklabor Pong,10,E195,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, Erdgeschoß",HGEG15
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=HGEG05A,Informatiklabor Q*bert,25,E195,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, Erdgeschoß",HGEG01A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=HEEG10,Informatiklabor Zelda,10,E195,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, 2.OG(Zugang über Stiege 4)",HE0236
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=K1,"Karlsgasse 11, Seminarraum 1",50,,persönlich,Nicht mehr Verfügbar,Institutsgebäude,"Karlsg. 11, Hochparterre links",EBEG03
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=K2,"Karlsgasse 11, Seminarraum 2",40,,persönlich,Nicht mehr Verfügbar,Institutsgebäude,"Karlsg. 11, Hochparterre rechts",EBEG20
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=KSCH,Kleiner Schiffbau,32,E307,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt, 1.OG",BD01B41
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=AAEG18,"Prechtlsaal großer Teil - Achtung! Werkraum, kein Hörsaal!",200,E401,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13,",AAEG18
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=AAEG-18,"Prechtlsaal kleiner Teil- Achtung! Werkraum, kein Hörsaal!",100,E401,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13,",AAEG18
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=101A,Sem.R. DA grün 03 A,50,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 3. OG",DA03A15
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=101B,Sem.R. DA grün 03 B,46,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 3. OG",DA03E10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1013,Sem.R. DA grün 03 C,12,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 3. OG",DA03C22
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=101C,Sem.R. DA grün 04,30,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 4. OG",DA04E10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=104,Sem.R. DA grün 05,60,E104,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 5. OG",DA05E10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=107,Sem.R. DA grün 06A,30,E105,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 6. OG",DA06E10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1016,Sem.R. DA grün 06B,16,E101,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm A, grüner Bereich, 6. OG",DA06G10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=325%2F2,Sem.R. DB gelb 03,33,E136,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 3. OG",DB03E11
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=105A,Sem.R. DB gelb 04,30,E105,persönlich,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 4.OG",DB04E11
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=134,Sem.R. DB gelb 05 A,32,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 5. OG",DB05E11
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=134A,Sem.R. DB gelb 05 B,24,E134,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 5. OG",DB05L03
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=138A,Sem.R. DB gelb 07,33,E138,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 7. OG",DB07E11
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=138C,Sem.R. DB gelb 09,24,E138,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 9. OG",DB09E23
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=136,Sem.R. DB gelb 10,33,,persönlich,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm B, gelber Bereich, 10. OG",DB10E11
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=138B,Sem.R. DC rot 07,23,E138,via TISS,Verfügbar,Freihausgebäude,"Wiedner Hauptstr. 8, Turm C, roter Bereich, 7. OG",DC07A15
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2532,Seminarraum  2/253,20,E401,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7",AFDG26
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=S1,Seminarraum 1,40,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 6, 4. Stock",AFDG30
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1,Seminarraum 1/3 OPG,56,E280,via TISS,Verfügbar,Perlmooser-Haus,"Operngasse 11, Operngasse 11 / 3. Stock",DF0321
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1071,Seminarraum 107/1,25,E107,via TISS,Verfügbar,Goldenes Lamm,"Wiedner Hauptstr. 7,",AP0107
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=121,Seminarraum 121,37,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1",CA0322
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=122,Seminarraum 122,25,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 3",CC0321A
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=124,Seminarraum 124,24,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 2",CB0308
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=125,Seminarraum 125,20,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1",CD0204
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=126,Seminarraum 126,28,E120,via TISS,Verfügbar,Institutsgebäude,"Gußhausstr. 28-30,",FB0113
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=123,Seminarraum 127,37,E120,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1",CD0324
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1832,Seminarraum 183/2,30,E188,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, gelber Bereich, Stiege 1",HA0403
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=186,Seminarraum 186,36,E186,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, gelber Bereich, Stiege 1",HA0503
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1872,Seminarraum 187/2,30,E187,persönlich,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, Blauer Bereich, Stiege 3",HF0209
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1882,Seminarraum 188/2,23,E188,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, grüner Bereich, Stiege 3",HD0407
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=202,Seminarraum 202,22,E202,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 2 (od.8)",AE0215
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=212,Seminarraum 212-232,45,E230,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 2",AA0318
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=213,Seminarraum 213,18,E212,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 2 (od.8)",AE0315
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=225,Seminarraum 225,40,E226,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 5",AD0213
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=233,Seminarraum 233,18,,persönlich,Verfügbar,Institutsgebäude,"Gußhausstr. 28-30,",FA0212
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=234,Seminarraum 234,25,E234,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 2",AEEG25
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=251,Seminarraum 251,12,,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 3",AC0314
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2681,Seminarraum 264/1,20,E264,via TISS,Verfügbar,Institutsgebäude,"Karlsg. 13, Karlsgasse 13, 1. Stock",EC0101
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WD02A01,Seminarraum 268/1,80,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WA 02 A01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2682,Seminarraum 268/2,10,,persönlich,Verfügbar,Institutsgebäude,"Karlsg. 13, Karlsgasse 13, 1. Stock",EC0109
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WB02E11,Seminarraum 268/2,20,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WB 02 E11
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WA02E07,Seminarraum 268/3,24,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WA 02 E07
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WA02A19,Seminarraum 280/1,60,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WA 02 A19
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WB02A23,Seminarraum 280/2,72,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WB 02 A23
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SR+3%2F2,Seminarraum 3/2,0,E401,persönlich,Nicht mehr Verfügbar,Perlmooser-Haus,"Operngasse 11,",DF0208
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2533,Seminarraum 3/253,20,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7",AFDG22
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WD02A02,Seminarraum 3/4,42,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WA 02 A02
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=351,Seminarraum 351,36,E354,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 1",CA0138
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=354,Seminarraum 354,20,E354,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 8",CF0153
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=362,Seminarraum 362,30,,persönlich,Verfügbar,Institutsgebäude,"Floragasse 7,",GA01A15
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=3621,Seminarraum 362/1,10,E362,via TISS,Verfügbar,Institutsgebäude,"Floragasse 7, Floragasse 7, 1. Stock",GA01K09
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=366M,Seminarraum 366-MST,30,E366,persönlich,Verfügbar,Institutsgebäude,"Floragasse 7, 2. Stock",GA02A12
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=384,Seminarraum 384,36,E384,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29,",CD0404
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=387,Seminarraum 387,30,E387,via TISS,Verfügbar,Elektrot.Institutsg.,"Gußhausstr. 25-29, Stiege 2, Erdgeschoß",CBEG02
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SR+4%2F2,Seminarraum 4/2,0,E401,persönlich,Nicht mehr Verfügbar,Perlmooser-Haus,"Operngasse 11,",DF0212
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WC02A23,Seminarraum 4/2,70,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WC02A23
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2534,Seminarraum 4/253,20,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7, Dachgeschoß",AFDG18
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=5260,Seminarraum 5/260,20,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Karlsplatz 13, Stiege 7",AFDG14
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=S6,Seminarraum 6/253,20,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13,",AFDG10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2537,Seminarraum 7/253,20,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Stiege 7",AFDG06
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=2503,Seminarraum 8,25,E006,via TISS,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hof 2, Stiege 7, ebenerdig",AHEG05
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=AIS,Seminarraum AI,25,E141,persönlich,Verfügbar,Atominstitut,"Stadionallee 2,",ZDEG10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ARG,Seminarraum Argentinierstrasse,70,E184,via TISS,Verfügbar,Institutsgebäude,"Argentinierstr. 8, Argentinierstrasse 8 od. Paniglgasse, EG",EAEG06
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BA+02A,Seminarraum BA 02A,40,E164,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 2.OG",BA02G02
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BA+02B,Seminarraum BA 02B,70,E166,persönlich,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 2.OG",BA02A17
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BA+02C,Seminarraum BA 02C,20,E302,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 2.OG",BA02G08
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEMBA03,Seminarraum BA 03/ Sitzungszimmer Dekanat,30,E402,persönlich,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 3.OG",BA03A17
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BA+05,Seminarraum BA 05,40,E325,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 5.OG",BA05G02
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BA+08A,Seminarraum BA 08A,40,E322,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 8.OG",BA08G02
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BA+08B,Seminarraum BA 08B,30,E311,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 8.OG",BA08G08
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SR+BA+10B,Seminarraum BA 10B,30,E315,via TISS,Verfügbar,Plus Energie Büro Hochhaus,"Getreidemarkt 9, Bauteil BA Hochhaus, 10.OG",BA10G08
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=BAU1_ZID,Seminarraum BD 02,70,E307,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt, 2.OG",BD02B33
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+BD+02C,Seminarraum BD 02C,20,E308,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt,2.OG",BD02G28
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=307A,Seminarraum BD 03,28,E307,via TISS,Verfügbar,Hoftrakt,"Getreidemarkt 9, Bauteil BD Hoftrakt, 3.OG",BD03G28
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEMBE02,Seminarraum BE 01,25,E317,persönlich,Verfügbar,Lückenbau,"Getreidemarkt 9, Bauteil BE Lückenbau, 1.OG",BE0108
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=166S-5,Seminarraum BH 03 Biotechnologie,10,E166,via TISS,Verfügbar,Institutsgebäude,"Gumpendorfer Str. 1a, Bauteil BH Gumpendorferstr., EG",BH03E06
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1665,Seminarraum BH Biosciences,25,E166,via TISS,Verfügbar,Institutsgebäude,"Gumpendorfer Str. 1a, Bauteil BH Gumpendorferstr., EG",BHEGD16
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=F311,Seminarraum Funke Halle,30,,persönlich,Verfügbar,Aspanggründe,"Adolf Blamauerg. 1-3,",MBEG28
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEMG,Seminarraum Gödel,30,E184,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, EG, Zugang vom Innenhof",HBEG10
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=IEM,Seminarraum IEMAR,25,E259,persönlich,Verfügbar,Institutsgebäude,"Treitlstraße 3, 1.Stock, gerade",DE0102
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEM+IFM,Seminarraum IFM (EDV Raum),16,E330,persönlich,Verfügbar,Institutsgebäude,"Treitlstraße 3, Bauteil DE, Dachgeschoss",DEDG66
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=Lehar+01,Seminarraum Lehar 01,20,E165,via TISS,Verfügbar,Lehartrakt,"Getreidemarkt 9, Bauteil BC Lehartrakt, 1.OG",BC01A46
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=Lehar+02,Seminarraum Lehar 02,20,E165,via TISS,Verfügbar,Lehartrakt,"Getreidemarkt 9, Bauteil BC Lehartrakt, 2.OG",BC02A46
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=1633,Seminarraum Lehar 03,20,E163,via TISS,Verfügbar,Lehartrakt,"Getreidemarkt 9, Bauteil BC Lehartrakt, 3.OG",BC03A46
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=LeharEG,Seminarraum Lehar EG,18,E164,via TISS,Verfügbar,Lehartrakt,"Getreidemarkt 9, Bauteil BC Lehartrakt, EG",BCEGA36
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SETI,Seminarraum Techn. Informatik,30,E183,via TISS,Verfügbar,Institutsgebäude,"Treitlstraße 3, Zugang über Operngasse 9 (Erdgeschoß)",DEEG39
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WB02A01,Seminarraum W1,60,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WB 02 A01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WD02A21,Seminarraum W15,60,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU 2.OG",WD 02 A21
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=WDEG09,Seminarraum W92,100,E280,via TISS,Verfügbar bis 30.06.18 00:00,Alte Wirtschaftsuniversität Wien (WUW),"Augasse 2-6, WU EG",WD EG G09
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZEMS,Seminarraum Zemanek,40,E195,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, hellgrüner Bereich, Stiege 3",HHEG01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=SEMN,Seminarraum von Neumann,25,E184,via TISS,Verfügbar,Institutsgebäude,"Favoritenstr. 9-11, EG, Zugang vom Innenhof",HBEG16
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=166S,Sitzungszimmer BI 03A03,12,E166,persönlich,Verfügbar,Loschmitdt Trakt,"Getreidemarkt 9, Bauteil BI Loschmidttrakt,4.OG",BI03A03
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=THE1,Theresianumgasse HS 1,72,E402,via TISS,Verfügbar,Außenstandort,"Theresianumg. 27,",QA0101
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=THE2,Theresianumgasse HS 2,40,E402,via TISS,Verfügbar,Außenstandort,"Theresianumg. 27,",QA0105
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=LABF,Werkstätte für Fertigungstechnik,16,,persönlich,Verfügbar,Lab.f.Fert.Technik,"Engerthstr. 119,",PCEG01
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZS13,Zeichensaal 13,35,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 4, 1. Stock",AC0144
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZS14,Zeichensaal 14,25,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 4, 1. Stock",AC0138
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZS15,Zeichensaal 15,35,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege1, 3. Stock",AA0348
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZS2,Zeichensaal 2,25,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 4, 3. Stock",AC0324
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZS8,Zeichensaal 8,25,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13, Hauptgebäude, Stiege 4, 3.Stock",AC0329
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZSEGPT,Zeichensaal EG Panigltrakt,40,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13,",AFEG22
+/events/roomSchedule.xhtml?windowId=ae2&roomCode=ZSKGPT,Zeichensaal KG Panigltrakt,30,E401,persönlich,Verfügbar,Hauptgebäude,"Karlsplatz 13,",AFU118
